@@ -6,6 +6,7 @@ import "./home.css";
 import axios from "axios";
 
 function Home() {
+  //  The api is not working so i am using the static data 
   // const URL = "https://api.esaral.com/v2/general/physics-dummy-data";
   // const [apidata, setApidata] = useState([]);
   // useEffect(() => {
