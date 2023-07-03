@@ -1,0 +1,10 @@
+.homecontainer{
+    display: flex;
+    width: 100%;
+ 
+}
+.aside{
+    margin-left: 25px;
+    width: 80%;
+    /* overflow-y: scroll; */
+}

@@ -1,0 +1,20 @@
+.navcontainer{
+    background-color: rgb(226, 231, 231);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.container1{
+    display: flex;
+    align-items: center;
+}
+.arrow {
+    height: 30px;
+    margin-right: 5px;
+
+}
+.search{
+    height: 30px;
+    margin-right:5px ;
+}

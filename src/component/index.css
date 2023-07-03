@@ -1,0 +1,17 @@
+.indexcontainer{
+   background-color: rgb(226, 231, 231);
+   height: 100vh;
+   width: 40%;  
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.insidetext{
+    display: flex;
+   justify-content: center;
+}
+.bookimage{
+   height: 30px;
+   margin-top: 26px;
+   margin-right: 10px; 
+}

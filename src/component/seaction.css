@@ -1,0 +1,47 @@
+.section{
+    overflow-y: scroll;
+    height: 670px;
+}
+
+.seactionContainer{
+    background-color: rgb(226, 231, 231);
+padding:10px 0 20px 20px ;
+}
+.roundbtn{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.seactionheading{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+.rightside{
+    display: flex;
+
+    align-items: center;
+}
+.data{
+    display: flex;
+    overflow-x: scroll;
+}
+.data1{
+    display: flex;
+    align-items: center;
+  /* text-align: center; */
+    justify-content: space-between;
+}
+.graterimage{
+    height: 20px;
+    border-radius: 50%;
+}
+.box{
+    margin: 8px;
+}
+.lectureimage{
+    height: 120px;
+    border-radius: 8%;
+}
