@@ -13,7 +13,7 @@ function Index(apidata) {
       <div className="indexdata">
       {apidata.apidata.map((el)=>{
         return(
-          <p>{el}</p>
+          <h3>{el}</h3>
         )
       })}</div>
       </div>
